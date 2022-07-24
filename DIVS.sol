@@ -6,6 +6,7 @@
 
 
 pragma solidity ^0.6.12;
+//常見的貔貅盤合約
 
 /**
  * @dev Collection of functions related to the address type
